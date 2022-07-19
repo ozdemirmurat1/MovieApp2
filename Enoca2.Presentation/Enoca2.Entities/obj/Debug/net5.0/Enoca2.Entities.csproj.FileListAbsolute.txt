@@ -1,0 +1,14 @@
+C:\Users\90545\Desktop\Enoca_Challenge\Enoca_Görev2\Enoca2.Presentation\Enoca2.Entities\bin\Debug\net5.0\Enoca2.Entities.deps.json
+C:\Users\90545\Desktop\Enoca_Challenge\Enoca_Görev2\Enoca2.Presentation\Enoca2.Entities\bin\Debug\net5.0\Enoca2.Entities.dll
+C:\Users\90545\Desktop\Enoca_Challenge\Enoca_Görev2\Enoca2.Presentation\Enoca2.Entities\bin\Debug\net5.0\ref\Enoca2.Entities.dll
+C:\Users\90545\Desktop\Enoca_Challenge\Enoca_Görev2\Enoca2.Presentation\Enoca2.Entities\bin\Debug\net5.0\Enoca2.Entities.pdb
+C:\Users\90545\Desktop\Enoca_Challenge\Enoca_Görev2\Enoca2.Presentation\Enoca2.Entities\obj\Debug\net5.0\Enoca2.Entities.csproj.AssemblyReference.cache
+C:\Users\90545\Desktop\Enoca_Challenge\Enoca_Görev2\Enoca2.Presentation\Enoca2.Entities\obj\Debug\net5.0\Enoca2.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90545\Desktop\Enoca_Challenge\Enoca_Görev2\Enoca2.Presentation\Enoca2.Entities\obj\Debug\net5.0\Enoca2.Entities.AssemblyInfoInputs.cache
+C:\Users\90545\Desktop\Enoca_Challenge\Enoca_Görev2\Enoca2.Presentation\Enoca2.Entities\obj\Debug\net5.0\Enoca2.Entities.AssemblyInfo.cs
+C:\Users\90545\Desktop\Enoca_Challenge\Enoca_Görev2\Enoca2.Presentation\Enoca2.Entities\obj\Debug\net5.0\Enoca2.Entities.csproj.CoreCompileInputs.cache
+C:\Users\90545\Desktop\Enoca_Challenge\Enoca_Görev2\Enoca2.Presentation\Enoca2.Entities\obj\Debug\net5.0\Enoca2.Entities.dll
+C:\Users\90545\Desktop\Enoca_Challenge\Enoca_Görev2\Enoca2.Presentation\Enoca2.Entities\obj\Debug\net5.0\ref\Enoca2.Entities.dll
+C:\Users\90545\Desktop\Enoca_Challenge\Enoca_Görev2\Enoca2.Presentation\Enoca2.Entities\obj\Debug\net5.0\Enoca2.Entities.pdb
+C:\Users\90545\Desktop\Enoca_Challenge\Enoca_Görev2\Enoca2.Presentation\Enoca2.Entities\bin\Debug\net5.0\Enoca2.Core.dll
+C:\Users\90545\Desktop\Enoca_Challenge\Enoca_Görev2\Enoca2.Presentation\Enoca2.Entities\bin\Debug\net5.0\Enoca2.Core.pdb

@@ -1,0 +1,16 @@
+C:\Users\90545\Desktop\Enoca_Challenge\Enoca_Görev2\Enoca2.Presentation\Enoca2.DataAccess\bin\Debug\net5.0\Enoca2.DataAccess.deps.json
+C:\Users\90545\Desktop\Enoca_Challenge\Enoca_Görev2\Enoca2.Presentation\Enoca2.DataAccess\bin\Debug\net5.0\Enoca2.DataAccess.dll
+C:\Users\90545\Desktop\Enoca_Challenge\Enoca_Görev2\Enoca2.Presentation\Enoca2.DataAccess\bin\Debug\net5.0\ref\Enoca2.DataAccess.dll
+C:\Users\90545\Desktop\Enoca_Challenge\Enoca_Görev2\Enoca2.Presentation\Enoca2.DataAccess\bin\Debug\net5.0\Enoca2.DataAccess.pdb
+C:\Users\90545\Desktop\Enoca_Challenge\Enoca_Görev2\Enoca2.Presentation\Enoca2.DataAccess\obj\Debug\net5.0\Enoca2.DataAccess.csproj.AssemblyReference.cache
+C:\Users\90545\Desktop\Enoca_Challenge\Enoca_Görev2\Enoca2.Presentation\Enoca2.DataAccess\obj\Debug\net5.0\Enoca2.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90545\Desktop\Enoca_Challenge\Enoca_Görev2\Enoca2.Presentation\Enoca2.DataAccess\obj\Debug\net5.0\Enoca2.DataAccess.AssemblyInfoInputs.cache
+C:\Users\90545\Desktop\Enoca_Challenge\Enoca_Görev2\Enoca2.Presentation\Enoca2.DataAccess\obj\Debug\net5.0\Enoca2.DataAccess.AssemblyInfo.cs
+C:\Users\90545\Desktop\Enoca_Challenge\Enoca_Görev2\Enoca2.Presentation\Enoca2.DataAccess\obj\Debug\net5.0\Enoca2.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\90545\Desktop\Enoca_Challenge\Enoca_Görev2\Enoca2.Presentation\Enoca2.DataAccess\obj\Debug\net5.0\Enoca2.DataAccess.dll
+C:\Users\90545\Desktop\Enoca_Challenge\Enoca_Görev2\Enoca2.Presentation\Enoca2.DataAccess\obj\Debug\net5.0\ref\Enoca2.DataAccess.dll
+C:\Users\90545\Desktop\Enoca_Challenge\Enoca_Görev2\Enoca2.Presentation\Enoca2.DataAccess\obj\Debug\net5.0\Enoca2.DataAccess.pdb
+C:\Users\90545\Desktop\Enoca_Challenge\Enoca_Görev2\Enoca2.Presentation\Enoca2.DataAccess\bin\Debug\net5.0\Enoca2.Core.dll
+C:\Users\90545\Desktop\Enoca_Challenge\Enoca_Görev2\Enoca2.Presentation\Enoca2.DataAccess\bin\Debug\net5.0\Enoca2.Entities.dll
+C:\Users\90545\Desktop\Enoca_Challenge\Enoca_Görev2\Enoca2.Presentation\Enoca2.DataAccess\bin\Debug\net5.0\Enoca2.Core.pdb
+C:\Users\90545\Desktop\Enoca_Challenge\Enoca_Görev2\Enoca2.Presentation\Enoca2.DataAccess\bin\Debug\net5.0\Enoca2.Entities.pdb
